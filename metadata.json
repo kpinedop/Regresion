@@ -1,0 +1,6 @@
+{
+  "name": "PriceLab AI",
+  "description": "Plataforma avanzada de econometría, regresión múltiple y simulación de escenarios de optimización de precios y demanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
